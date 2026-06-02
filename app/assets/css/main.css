@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Great+Vibes&family=Montserrat:wght@300;400;500;600&family=Inter:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&display=swap');
+
+/* Custom Fonts */
+@font-face {
+  font-family: 'Relona';
+  src: url('/fonts/Relona.woff2') format('woff2'),
+       url('/fonts/Relona.woff') format('woff'),
+       url('/fonts/Relona.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Abigail';
+  src: url('/fonts/Abigail.woff2') format('woff2'),
+       url('/fonts/Abigail.woff') format('woff'),
+       url('/fonts/Abigail.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Fujiso';
+  src: url('/fonts/Fujiso.woff2') format('woff2'),
+       url('/fonts/Fujiso.woff') format('woff'),
+       url('/fonts/Fujiso.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --font-heading: 'Relona', 'Cormorant Garamond', serif;
+  --font-body: 'Fujiso', 'Montserrat', sans-serif;
+  --font-script: 'Abigail', 'Great Vibes', cursive;
+  
+  /* Cream Vanilla Background */
+  --bg-color: #efe6dd;
+  --bg-color-rgb: 239, 230, 221;
+  
+  /* Dark text for contrast against light cream */
+  --text-primary: #1a0000; /* Very Dark Cherry Charcoal */
+  --text-secondary: #5c0001; /* Muted Cherry Cola */
+  
+  /* Cherry Cola Accents */
+  --accent-1: #9a0002; 
+  --accent-1-rgb: 154, 0, 2;
+  --accent-2: #6a0001; /* Deep Dark Cherry */
+  --accent-gradient: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+}
+
+.script-font {
+  font-family: var(--font-script) !important;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: var(--accent-1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: none !important; /* Force custom cursor everywhere */
+}
+
+html, body {
+  width: 100%;
+  min-height: 100%;
+  font-family: var(--font-body);
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  overflow-x: hidden;
+}
+
+/* Hide scrollbar for a cleaner premium look */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+.text-gradient {
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: inline-block;
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(var(--accent-1-rgb), 0.2);
+  border-radius: 20px;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.05);
+}
+
+.btn-primary {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent-gradient);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 15px rgba(230, 57, 70, 0.3);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(230, 57, 70, 0.5);
+}
+
+.section {
+  position: relative;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0 10vw;
+  z-index: 10;
+  /* Pointer events none for sections so we can interact with canvas if needed, 
+     then re-enable for content inside */
+  pointer-events: none;
+}
+
+.section-content {
+  pointer-events: auto;
+  max-width: 800px;
+}
+
+/* 3D Canvas Background container */
+#canvas-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  pointer-events: auto;
+}

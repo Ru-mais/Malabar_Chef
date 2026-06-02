@@ -1,0 +1,23 @@
+{
+  "name": "Malabar Chef Family Restaurant",
+  "tagline": "Family Restaurant",
+  "logo": "malabar_chef_logo.png",
+  "contact": {
+    "phone": "0573788873",
+    "phoneCountryCode": "+966",
+    "phoneFormatted": "+966 57 378 8873"
+  },
+  "location": {
+    "street": "Prince Talal street",
+    "district": "Madinat Al ummal",
+    "postalCode": "32253",
+    "city": "Dammam",
+    "country": "KSA",
+    "fullAddress": "Prince Talal street, Madinat Al ummal, 32253 Dammam, KSA",
+    "mapsUrl": "https://maps.app.goo.gl/ixnZgBMYRqkek6oKA?g_st=iw"
+  },
+  "branchDetails": {
+    "hours": "Breakfast, Lunch, Dinner & Drinks",
+    "cuisine": "Kerala Malabar & Family Dining"
+  }
+}

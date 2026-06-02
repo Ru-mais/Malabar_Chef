@@ -1,0 +1,1946 @@
+[
+  {
+    "category": "FALOODA",
+    "color": "#E91E63",
+    "items": [
+      {
+        "name": "Mini Falooda",
+        "price": "10",
+        "cal": "280",
+        "rating": "4.6",
+        "macros": {
+          "p": "6g",
+          "c": "45g",
+          "f": "8g"
+        },
+        "image": "https://loremflickr.com/600/800/Mini,Falooda,food/all"
+      },
+      {
+        "name": "Royal Falooda",
+        "price": "15",
+        "cal": "420",
+        "rating": "4.9",
+        "macros": {
+          "p": "8g",
+          "c": "65g",
+          "f": "14g"
+        },
+        "image": "https://loremflickr.com/600/800/Royal,Falooda,food/all"
+      },
+      {
+        "name": "Dry Fruit Falooda",
+        "price": "17",
+        "cal": "390",
+        "rating": "4.8",
+        "macros": {
+          "p": "10g",
+          "c": "55g",
+          "f": "16g"
+        },
+        "image": "https://loremflickr.com/600/800/Dry,Fruit,Falooda,food/all"
+      },
+      {
+        "name": "Malabar Special",
+        "price": "20",
+        "cal": "350",
+        "rating": "4.9",
+        "macros": {
+          "p": "9g",
+          "c": "50g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Malabar,Special,food/all"
+      },
+      {
+        "name": "Gudbud Falooda",
+        "price": "15",
+        "cal": "380",
+        "rating": "4.7",
+        "macros": {
+          "p": "7g",
+          "c": "58g",
+          "f": "13g"
+        },
+        "image": "https://loremflickr.com/600/800/Gudbud,Falooda,food/all"
+      },
+      {
+        "name": "Fruit Salad",
+        "price": "12",
+        "cal": "210",
+        "rating": "4.5",
+        "macros": {
+          "p": "3g",
+          "c": "48g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Fruit,Salad,food/all"
+      }
+    ]
+  },
+  {
+    "category": "SUNDAE",
+    "color": "#8D6E63",
+    "items": [
+      {
+        "name": "Brownie with Ice Cream",
+        "price": "12",
+        "cal": "480",
+        "rating": "4.8",
+        "macros": {
+          "p": "6g",
+          "c": "62g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Brownie,with,Ice,Cream,food/all"
+      },
+      {
+        "name": "Death by Chocolate",
+        "price": "12",
+        "cal": "520",
+        "rating": "4.9",
+        "macros": {
+          "p": "8g",
+          "c": "68g",
+          "f": "26g"
+        },
+        "image": "https://loremflickr.com/600/800/Death,by,Chocolate,food/all"
+      },
+      {
+        "name": "Red Velvet with Ice Cream",
+        "price": "10",
+        "cal": "460",
+        "rating": "4.7",
+        "macros": {
+          "p": "7g",
+          "c": "58g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Red,Velvet,with,Ice,Cream,food/all"
+      },
+      {
+        "name": "Avil Milk",
+        "price": "12",
+        "cal": "310",
+        "rating": "4.8",
+        "macros": {
+          "p": "9g",
+          "c": "45g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Avil,Milk,food/all"
+      },
+      {
+        "name": "Kannur Cocktail",
+        "price": "8",
+        "cal": "290",
+        "rating": "4.6",
+        "macros": {
+          "p": "5g",
+          "c": "42g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Kannur,Cocktail,food/all"
+      }
+    ]
+  },
+  {
+    "category": "SOUP",
+    "color": "#FF9800",
+    "items": [
+      {
+        "name": "Sweet Corn Chicken/Veg",
+        "price": "10",
+        "cal": "180",
+        "rating": "4.5",
+        "macros": {
+          "p": "12g",
+          "c": "25g",
+          "f": "4g"
+        },
+        "image": "https://loremflickr.com/600/800/Sweet,Corn,Chicken/Veg,food/all"
+      },
+      {
+        "name": "Hot n Sour Chicken/Veg",
+        "price": "10",
+        "cal": "160",
+        "rating": "4.6",
+        "macros": {
+          "p": "10g",
+          "c": "20g",
+          "f": "5g"
+        },
+        "image": "https://loremflickr.com/600/800/Hot,n,Sour,Chicken/Veg,food/all"
+      },
+      {
+        "name": "Cream of Chicken/Mushroom",
+        "price": "10",
+        "cal": "220",
+        "rating": "4.7",
+        "macros": {
+          "p": "14g",
+          "c": "15g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Cream,of,Chicken/Mushroom,food/all"
+      },
+      {
+        "name": "Cream of Tomato",
+        "price": "10",
+        "cal": "150",
+        "rating": "4.4",
+        "macros": {
+          "p": "4g",
+          "c": "22g",
+          "f": "6g"
+        },
+        "image": "https://loremflickr.com/600/800/Cream,of,Tomato,food/all"
+      },
+      {
+        "name": "Chicken Manchow",
+        "price": "10",
+        "cal": "190",
+        "rating": "4.8",
+        "macros": {
+          "p": "15g",
+          "c": "20g",
+          "f": "6g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Manchow,food/all"
+      },
+      {
+        "name": "Chicken Clear",
+        "price": "10",
+        "cal": "90",
+        "rating": "4.3",
+        "macros": {
+          "p": "12g",
+          "c": "5g",
+          "f": "2g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Clear,food/all"
+      },
+      {
+        "name": "Tom Yum Soup",
+        "price": "12",
+        "cal": "120",
+        "rating": "4.9",
+        "macros": {
+          "p": "10g",
+          "c": "12g",
+          "f": "4g"
+        },
+        "image": "https://loremflickr.com/600/800/Tom,Yum,Soup,food/all"
+      }
+    ]
+  },
+  {
+    "category": "STARTER",
+    "color": "#FF5722",
+    "items": [
+      {
+        "name": "Chicken 65",
+        "price": "18",
+        "cal": "350",
+        "rating": "4.8",
+        "macros": {
+          "p": "28g",
+          "c": "15g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,65,food/all"
+      },
+      {
+        "name": "Dragon Chicken",
+        "price": "22",
+        "cal": "480",
+        "rating": "4.7",
+        "macros": {
+          "p": "32g",
+          "c": "25g",
+          "f": "24g"
+        },
+        "image": "https://loremflickr.com/600/800/Dragon,Chicken,food/all"
+      },
+      {
+        "name": "Beef Dry Fry",
+        "price": "18",
+        "cal": "420",
+        "rating": "4.9",
+        "macros": {
+          "p": "35g",
+          "c": "10g",
+          "f": "25g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Dry,Fry,food/all"
+      },
+      {
+        "name": "Crispy Fried Chicken",
+        "price": "22",
+        "cal": "450",
+        "rating": "4.6",
+        "macros": {
+          "p": "25g",
+          "c": "30g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Crispy,Fried,Chicken,food/all"
+      },
+      {
+        "name": "Dynamite Prawns",
+        "price": "26",
+        "cal": "550",
+        "rating": "4.9",
+        "macros": {
+          "p": "22g",
+          "c": "40g",
+          "f": "32g"
+        },
+        "image": "https://loremflickr.com/600/800/Dynamite,Prawns,food/all"
+      },
+      {
+        "name": "Dynamite Chicken",
+        "price": "22",
+        "cal": "600",
+        "rating": "4.8",
+        "macros": {
+          "p": "28g",
+          "c": "45g",
+          "f": "35g"
+        },
+        "image": "https://loremflickr.com/600/800/Dynamite,Chicken,food/all"
+      },
+      {
+        "name": "Chicken Lollypop",
+        "price": "16",
+        "cal": "350",
+        "rating": "4.7",
+        "macros": {
+          "p": "25g",
+          "c": "20g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Lollypop,food/all"
+      },
+      {
+        "name": "Honey Glazed Chicken",
+        "price": "22",
+        "cal": "560",
+        "rating": "4.8",
+        "macros": {
+          "p": "30g",
+          "c": "55g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Honey,Glazed,Chicken,food/all"
+      },
+      {
+        "name": "Prawns Tempura",
+        "price": "26",
+        "cal": "300",
+        "rating": "4.7",
+        "macros": {
+          "p": "18g",
+          "c": "25g",
+          "f": "14g"
+        },
+        "image": "https://loremflickr.com/600/800/Prawns,Tempura,food/all"
+      }
+    ]
+  },
+  {
+    "category": "CURRY",
+    "color": "#D84315",
+    "items": [
+      {
+        "name": "Egg Curry",
+        "price": "3",
+        "cal": "280",
+        "rating": "4.4",
+        "macros": {
+          "p": "14g",
+          "c": "15g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Egg,Curry,food/all"
+      },
+      {
+        "name": "Egg Roast",
+        "price": "3",
+        "cal": "310",
+        "rating": "4.6",
+        "macros": {
+          "p": "14g",
+          "c": "18g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Egg,Roast,food/all"
+      },
+      {
+        "name": "Chicken Curry",
+        "price": "8",
+        "cal": "350",
+        "rating": "4.7",
+        "macros": {
+          "p": "35g",
+          "c": "12g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Curry,food/all"
+      },
+      {
+        "name": "Beef Curry",
+        "price": "8",
+        "cal": "390",
+        "rating": "4.8",
+        "macros": {
+          "p": "40g",
+          "c": "10g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Curry,food/all"
+      },
+      {
+        "name": "Fish Curry",
+        "price": "7",
+        "cal": "270",
+        "rating": "4.7",
+        "macros": {
+          "p": "28g",
+          "c": "8g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,Curry,food/all"
+      },
+      {
+        "name": "Beef Fry",
+        "price": "11",
+        "cal": "420",
+        "rating": "4.9",
+        "macros": {
+          "p": "45g",
+          "c": "5g",
+          "f": "24g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Fry,food/all"
+      },
+      {
+        "name": "Kadala",
+        "price": "3",
+        "cal": "210",
+        "rating": "4.5",
+        "macros": {
+          "p": "12g",
+          "c": "35g",
+          "f": "4g"
+        },
+        "image": "https://loremflickr.com/600/800/Kadala,food/all"
+      },
+      {
+        "name": "Green Peas",
+        "price": "3",
+        "cal": "190",
+        "rating": "4.4",
+        "macros": {
+          "p": "10g",
+          "c": "30g",
+          "f": "3g"
+        },
+        "image": "https://loremflickr.com/600/800/Green,Peas,food/all"
+      },
+      {
+        "name": "Cherupayar",
+        "price": "3",
+        "cal": "180",
+        "rating": "4.5",
+        "macros": {
+          "p": "12g",
+          "c": "28g",
+          "f": "2g"
+        },
+        "image": "https://loremflickr.com/600/800/Cherupayar,food/all"
+      },
+      {
+        "name": "Egg Omelet",
+        "price": "4",
+        "cal": "150",
+        "rating": "4.3",
+        "macros": {
+          "p": "12g",
+          "c": "2g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Egg,Omelet,food/all"
+      },
+      {
+        "name": "Egg Bullseye",
+        "price": "4",
+        "cal": "130",
+        "rating": "4.4",
+        "macros": {
+          "p": "12g",
+          "c": "1g",
+          "f": "9g"
+        },
+        "image": "https://loremflickr.com/600/800/Egg,Bullseye,food/all"
+      },
+      {
+        "name": "Masala Omelet",
+        "price": "5",
+        "cal": "170",
+        "rating": "4.6",
+        "macros": {
+          "p": "13g",
+          "c": "4g",
+          "f": "11g"
+        },
+        "image": "https://loremflickr.com/600/800/Masala,Omelet,food/all"
+      }
+    ]
+  },
+  {
+    "category": "MUTTON DISHES",
+    "color": "#6D4C41",
+    "items": [
+      {
+        "name": "Mutton Curry",
+        "price": "24",
+        "cal": "420",
+        "rating": "4.8",
+        "macros": {
+          "p": "35g",
+          "c": "10g",
+          "f": "25g"
+        },
+        "image": "https://loremflickr.com/600/800/Mutton,Curry,food/all"
+      },
+      {
+        "name": "Mutton Roast",
+        "price": "25",
+        "cal": "450",
+        "rating": "4.9",
+        "macros": {
+          "p": "38g",
+          "c": "8g",
+          "f": "28g"
+        },
+        "image": "https://loremflickr.com/600/800/Mutton,Roast,food/all"
+      },
+      {
+        "name": "Kadai Mutton",
+        "price": "26",
+        "cal": "440",
+        "rating": "4.7",
+        "macros": {
+          "p": "36g",
+          "c": "12g",
+          "f": "26g"
+        },
+        "image": "https://loremflickr.com/600/800/Kadai,Mutton,food/all"
+      },
+      {
+        "name": "Mutton Rogan Josh",
+        "price": "28",
+        "cal": "460",
+        "rating": "4.9",
+        "macros": {
+          "p": "34g",
+          "c": "15g",
+          "f": "30g"
+        },
+        "image": "https://loremflickr.com/600/800/Mutton,Rogan,Josh,food/all"
+      }
+    ]
+  },
+  {
+    "category": "BEEF DISHES",
+    "color": "#b71c1c",
+    "items": [
+      {
+        "name": "Beef Coconut Fry",
+        "price": "16",
+        "cal": "430",
+        "rating": "4.9",
+        "macros": {
+          "p": "40g",
+          "c": "8g",
+          "f": "26g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Coconut,Fry,food/all"
+      },
+      {
+        "name": "Beef with Water Chestnut",
+        "price": "18",
+        "cal": "410",
+        "rating": "4.7",
+        "macros": {
+          "p": "38g",
+          "c": "15g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,with,Water,Chestnut,food/all"
+      },
+      {
+        "name": "Beef Ularth",
+        "price": "18",
+        "cal": "445",
+        "rating": "4.9",
+        "macros": {
+          "p": "45g",
+          "c": "10g",
+          "f": "25g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Ularth,food/all"
+      },
+      {
+        "name": "Beef Kondattam",
+        "price": "18",
+        "cal": "400",
+        "rating": "4.8",
+        "macros": {
+          "p": "42g",
+          "c": "12g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Kondattam,food/all"
+      },
+      {
+        "name": "Beef Peralan",
+        "price": "18",
+        "cal": "435",
+        "rating": "4.7",
+        "macros": {
+          "p": "40g",
+          "c": "14g",
+          "f": "24g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Peralan,food/all"
+      },
+      {
+        "name": "Beef Pepper",
+        "price": "17",
+        "cal": "425",
+        "rating": "4.8",
+        "macros": {
+          "p": "42g",
+          "c": "8g",
+          "f": "25g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Pepper,food/all"
+      },
+      {
+        "name": "Beef Nadan Curry",
+        "price": "13",
+        "cal": "415",
+        "rating": "4.6",
+        "macros": {
+          "p": "38g",
+          "c": "12g",
+          "f": "24g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Nadan,Curry,food/all"
+      },
+      {
+        "name": "Beef Roast",
+        "price": "16",
+        "cal": "455",
+        "rating": "4.9",
+        "macros": {
+          "p": "45g",
+          "c": "10g",
+          "f": "26g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Roast,food/all"
+      },
+      {
+        "name": "Beef Chilly",
+        "price": "18",
+        "cal": "390",
+        "rating": "4.7",
+        "macros": {
+          "p": "35g",
+          "c": "18g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Chilly,food/all"
+      }
+    ]
+  },
+  {
+    "category": "HOT & COOL",
+    "color": "#795548",
+    "items": [
+      {
+        "name": "Tea",
+        "price": "2",
+        "cal": "60",
+        "rating": "4.5",
+        "macros": {
+          "p": "2g",
+          "c": "10g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Tea,food/all"
+      },
+      {
+        "name": "Coffee",
+        "price": "2",
+        "cal": "70",
+        "rating": "4.6",
+        "macros": {
+          "p": "2g",
+          "c": "12g",
+          "f": "2g"
+        },
+        "image": "https://loremflickr.com/600/800/Coffee,food/all"
+      },
+      {
+        "name": "Black tea",
+        "price": "1",
+        "cal": "20",
+        "rating": "4.3",
+        "macros": {
+          "p": "0g",
+          "c": "5g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Black,tea,food/all"
+      },
+      {
+        "name": "Black Coffee",
+        "price": "1",
+        "cal": "10",
+        "rating": "4.4",
+        "macros": {
+          "p": "0g",
+          "c": "2g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Black,Coffee,food/all"
+      },
+      {
+        "name": "Horlicks",
+        "price": "3",
+        "cal": "140",
+        "rating": "4.7",
+        "macros": {
+          "p": "5g",
+          "c": "25g",
+          "f": "3g"
+        },
+        "image": "https://loremflickr.com/600/800/Horlicks,food/all"
+      },
+      {
+        "name": "Boost",
+        "price": "4",
+        "cal": "130",
+        "rating": "4.8",
+        "macros": {
+          "p": "4g",
+          "c": "24g",
+          "f": "2g"
+        },
+        "image": "https://loremflickr.com/600/800/Boost,food/all"
+      },
+      {
+        "name": "Hot milk",
+        "price": "3",
+        "cal": "120",
+        "rating": "4.5",
+        "macros": {
+          "p": "8g",
+          "c": "12g",
+          "f": "5g"
+        },
+        "image": "https://loremflickr.com/600/800/Hot,milk,food/all"
+      },
+      {
+        "name": "Ginger tea",
+        "price": "1",
+        "cal": "30",
+        "rating": "4.6",
+        "macros": {
+          "p": "0g",
+          "c": "7g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Ginger,tea,food/all"
+      },
+      {
+        "name": "Lime tea",
+        "price": "2",
+        "cal": "25",
+        "rating": "4.5",
+        "macros": {
+          "p": "0g",
+          "c": "6g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Lime,tea,food/all"
+      }
+    ]
+  },
+  {
+    "category": "MOJITOS",
+    "color": "#00BCD4",
+    "items": [
+      {
+        "name": "Blue berry",
+        "price": "12",
+        "cal": "130",
+        "rating": "4.7",
+        "macros": {
+          "p": "0g",
+          "c": "32g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Blue,berry,food/all"
+      },
+      {
+        "name": "Passion fruit",
+        "price": "12",
+        "cal": "120",
+        "rating": "4.8",
+        "macros": {
+          "p": "0g",
+          "c": "30g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Passion,fruit,food/all"
+      },
+      {
+        "name": "Mint",
+        "price": "12",
+        "cal": "50",
+        "rating": "4.6",
+        "macros": {
+          "p": "0g",
+          "c": "12g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Mint,food/all"
+      },
+      {
+        "name": "Lemon mint",
+        "price": "12",
+        "cal": "65",
+        "rating": "4.7",
+        "macros": {
+          "p": "0g",
+          "c": "15g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Lemon,mint,food/all"
+      },
+      {
+        "name": "Red bull",
+        "price": "22",
+        "cal": "110",
+        "rating": "4.8",
+        "macros": {
+          "p": "0g",
+          "c": "28g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Red,bull,food/all"
+      },
+      {
+        "name": "Code red",
+        "price": "15",
+        "cal": "140",
+        "rating": "4.6",
+        "macros": {
+          "p": "0g",
+          "c": "35g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Code,red,food/all"
+      }
+    ]
+  },
+  {
+    "category": "FRESH JUICE",
+    "color": "#4CAF50",
+    "items": [
+      {
+        "name": "Orange fresh squeezed",
+        "price": "10",
+        "cal": "115",
+        "rating": "4.9",
+        "macros": {
+          "p": "2g",
+          "c": "26g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Orange,fresh,squeezed,food/all"
+      },
+      {
+        "name": "Orange",
+        "price": "7",
+        "cal": "110",
+        "rating": "4.5",
+        "macros": {
+          "p": "1g",
+          "c": "25g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Orange,food/all"
+      },
+      {
+        "name": "Watermelon",
+        "price": "7",
+        "cal": "90",
+        "rating": "4.8",
+        "macros": {
+          "p": "1g",
+          "c": "22g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Watermelon,food/all"
+      },
+      {
+        "name": "Fresh lime",
+        "price": "6",
+        "cal": "60",
+        "rating": "4.6",
+        "macros": {
+          "p": "0g",
+          "c": "15g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Fresh,lime,food/all"
+      },
+      {
+        "name": "Mint lime",
+        "price": "6",
+        "cal": "70",
+        "rating": "4.7",
+        "macros": {
+          "p": "0g",
+          "c": "18g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Mint,lime,food/all"
+      },
+      {
+        "name": "Pomegranate",
+        "price": "10",
+        "cal": "150",
+        "rating": "4.8",
+        "macros": {
+          "p": "2g",
+          "c": "35g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Pomegranate,food/all"
+      }
+    ]
+  },
+  {
+    "category": "BREAKFAST",
+    "color": "#FFC107",
+    "items": [
+      {
+        "name": "Chapati",
+        "price": "1",
+        "cal": "120",
+        "rating": "4.5",
+        "macros": {
+          "p": "4g",
+          "c": "22g",
+          "f": "2g"
+        },
+        "image": "https://loremflickr.com/600/800/Chapati,food/all"
+      },
+      {
+        "name": "Porotta",
+        "price": "1",
+        "cal": "160",
+        "rating": "4.8",
+        "macros": {
+          "p": "5g",
+          "c": "30g",
+          "f": "6g"
+        },
+        "image": "https://loremflickr.com/600/800/Porotta,food/all"
+      },
+      {
+        "name": "Poori baji",
+        "price": "6",
+        "cal": "280",
+        "rating": "4.7",
+        "macros": {
+          "p": "6g",
+          "c": "45g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Poori,baji,food/all"
+      },
+      {
+        "name": "Idiappam",
+        "price": "1",
+        "cal": "110",
+        "rating": "4.6",
+        "macros": {
+          "p": "3g",
+          "c": "25g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Idiappam,food/all"
+      },
+      {
+        "name": "Puttu",
+        "price": "3",
+        "cal": "180",
+        "rating": "4.8",
+        "macros": {
+          "p": "5g",
+          "c": "38g",
+          "f": "2g"
+        },
+        "image": "https://loremflickr.com/600/800/Puttu,food/all"
+      },
+      {
+        "name": "Neer dosa",
+        "price": "1",
+        "cal": "130",
+        "rating": "4.5",
+        "macros": {
+          "p": "4g",
+          "c": "28g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Neer,dosa,food/all"
+      },
+      {
+        "name": "Ghee roast",
+        "price": "6",
+        "cal": "340",
+        "rating": "4.9",
+        "macros": {
+          "p": "6g",
+          "c": "40g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Ghee,roast,food/all"
+      },
+      {
+        "name": "Idali",
+        "price": "5",
+        "cal": "80",
+        "rating": "4.6",
+        "macros": {
+          "p": "3g",
+          "c": "18g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Idali,food/all"
+      },
+      {
+        "name": "Masala dosa",
+        "price": "6",
+        "cal": "320",
+        "rating": "4.8",
+        "macros": {
+          "p": "8g",
+          "c": "45g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Masala,dosa,food/all"
+      },
+      {
+        "name": "Onion roast",
+        "price": "6",
+        "cal": "300",
+        "rating": "4.7",
+        "macros": {
+          "p": "6g",
+          "c": "42g",
+          "f": "14g"
+        },
+        "image": "https://loremflickr.com/600/800/Onion,roast,food/all"
+      },
+      {
+        "name": "Uthappam",
+        "price": "6",
+        "cal": "220",
+        "rating": "4.6",
+        "macros": {
+          "p": "7g",
+          "c": "35g",
+          "f": "6g"
+        },
+        "image": "https://loremflickr.com/600/800/Uthappam,food/all"
+      },
+      {
+        "name": "Vada",
+        "price": "1",
+        "cal": "180",
+        "rating": "4.5",
+        "macros": {
+          "p": "6g",
+          "c": "20g",
+          "f": "8g"
+        },
+        "image": "https://loremflickr.com/600/800/Vada,food/all"
+      }
+    ]
+  },
+  {
+    "category": "CHICKEN DISHES",
+    "color": "#E53935",
+    "items": [
+      {
+        "name": "Chicken pepper",
+        "price": "17",
+        "cal": "320",
+        "rating": "4.7",
+        "macros": {
+          "p": "30g",
+          "c": "10g",
+          "f": "15g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,pepper,food/all"
+      },
+      {
+        "name": "Chicken roast",
+        "price": "17",
+        "cal": "380",
+        "rating": "4.8",
+        "macros": {
+          "p": "32g",
+          "c": "12g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,roast,food/all"
+      },
+      {
+        "name": "Chicken varutharachathu",
+        "price": "18",
+        "cal": "410",
+        "rating": "4.9",
+        "macros": {
+          "p": "34g",
+          "c": "15g",
+          "f": "24g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,varutharachathu,food/all"
+      },
+      {
+        "name": "Chicken kadai",
+        "price": "18",
+        "cal": "350",
+        "rating": "4.7",
+        "macros": {
+          "p": "30g",
+          "c": "14g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,kadai,food/all"
+      },
+      {
+        "name": "Chicken ularthiyathu",
+        "price": "18",
+        "cal": "370",
+        "rating": "4.9",
+        "macros": {
+          "p": "35g",
+          "c": "10g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,ularthiyathu,food/all"
+      },
+      {
+        "name": "Chicken kondattam",
+        "price": "18",
+        "cal": "290",
+        "rating": "4.6",
+        "macros": {
+          "p": "28g",
+          "c": "15g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,kondattam,food/all"
+      },
+      {
+        "name": "Butter chicken",
+        "price": "18",
+        "cal": "430",
+        "rating": "4.9",
+        "macros": {
+          "p": "28g",
+          "c": "20g",
+          "f": "26g"
+        },
+        "image": "https://loremflickr.com/600/800/Butter,chicken,food/all"
+      },
+      {
+        "name": "Chicken kuruma",
+        "price": "16",
+        "cal": "380",
+        "rating": "4.7",
+        "macros": {
+          "p": "26g",
+          "c": "18g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,kuruma,food/all"
+      },
+      {
+        "name": "Chicken stew",
+        "price": "16",
+        "cal": "280",
+        "rating": "4.8",
+        "macros": {
+          "p": "25g",
+          "c": "22g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,stew,food/all"
+      },
+      {
+        "name": "Chilly chicken",
+        "price": "17",
+        "cal": "360",
+        "rating": "4.7",
+        "macros": {
+          "p": "28g",
+          "c": "25g",
+          "f": "16g"
+        },
+        "image": "https://loremflickr.com/600/800/Chilly,chicken,food/all"
+      },
+      {
+        "name": "Chicken manchurian",
+        "price": "18",
+        "cal": "340",
+        "rating": "4.6",
+        "macros": {
+          "p": "26g",
+          "c": "28g",
+          "f": "14g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,manchurian,food/all"
+      },
+      {
+        "name": "Garlic chicken",
+        "price": "18",
+        "cal": "330",
+        "rating": "4.7",
+        "macros": {
+          "p": "28g",
+          "c": "20g",
+          "f": "15g"
+        },
+        "image": "https://loremflickr.com/600/800/Garlic,chicken,food/all"
+      },
+      {
+        "name": "Ginger chicken",
+        "price": "18",
+        "cal": "325",
+        "rating": "4.6",
+        "macros": {
+          "p": "28g",
+          "c": "22g",
+          "f": "14g"
+        },
+        "image": "https://loremflickr.com/600/800/Ginger,chicken,food/all"
+      },
+      {
+        "name": "Chicken chettinad",
+        "price": "18",
+        "cal": "395",
+        "rating": "4.8",
+        "macros": {
+          "p": "30g",
+          "c": "15g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,chettinad,food/all"
+      },
+      {
+        "name": "Nadan chicken curry",
+        "price": "13",
+        "cal": "310",
+        "rating": "4.8",
+        "macros": {
+          "p": "26g",
+          "c": "12g",
+          "f": "16g"
+        },
+        "image": "https://loremflickr.com/600/800/Nadan,chicken,curry,food/all"
+      }
+    ]
+  },
+  {
+    "category": "BIRYANI",
+    "color": "#FBC02D",
+    "items": [
+      {
+        "name": "Chicken Dum Biryani",
+        "price": "15",
+        "cal": "650",
+        "rating": "4.8",
+        "macros": {
+          "p": "40g",
+          "c": "70g",
+          "f": "22g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Dum,Biryani,food/all"
+      },
+      {
+        "name": "Chicken Leghorn Biryani",
+        "price": "16",
+        "cal": "620",
+        "rating": "4.7",
+        "macros": {
+          "p": "38g",
+          "c": "65g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Leghorn,Biryani,food/all"
+      },
+      {
+        "name": "Chicken Fried Biryani",
+        "price": "16",
+        "cal": "580",
+        "rating": "4.6",
+        "macros": {
+          "p": "35g",
+          "c": "60g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Fried,Biryani,food/all"
+      },
+      {
+        "name": "Mutton Dum Biryani",
+        "price": "22",
+        "cal": "600",
+        "rating": "4.9",
+        "macros": {
+          "p": "42g",
+          "c": "65g",
+          "f": "25g"
+        },
+        "image": "https://loremflickr.com/600/800/Mutton,Dum,Biryani,food/all"
+      },
+      {
+        "name": "Beef Dum Biryani",
+        "price": "17",
+        "cal": "560",
+        "rating": "4.8",
+        "macros": {
+          "p": "38g",
+          "c": "60g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Beef,Dum,Biryani,food/all"
+      },
+      {
+        "name": "Fish Biryani",
+        "price": "20",
+        "cal": "610",
+        "rating": "4.7",
+        "macros": {
+          "p": "35g",
+          "c": "65g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,Biryani,food/all"
+      },
+      {
+        "name": "Chicken Hyderabadi Biryani",
+        "price": "20",
+        "cal": "700",
+        "rating": "4.8",
+        "macros": {
+          "p": "45g",
+          "c": "75g",
+          "f": "28g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Hyderabadi,Biryani,food/all"
+      },
+      {
+        "name": "Chicken Madghout (qtr/half)",
+        "price": "13/24",
+        "cal": "500",
+        "rating": "4.7",
+        "macros": {
+          "p": "35g",
+          "c": "55g",
+          "f": "15g"
+        },
+        "image": "https://loremflickr.com/600/800/Chicken,Madghout,(qtr/half),food/all"
+      },
+      {
+        "name": "Mandi Rice with chicken tawa fry (qtr/half)",
+        "price": "15/26",
+        "cal": "480",
+        "rating": "4.8",
+        "macros": {
+          "p": "38g",
+          "c": "50g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Mandi,Rice,with,chicken,tawa,fry,(qtr/half),food/all"
+      }
+    ]
+  },
+  {
+    "category": "MILK SHAKES",
+    "color": "#9C27B0",
+    "items": [
+      {
+        "name": "Avocado",
+        "price": "12",
+        "cal": "180",
+        "rating": "4.9",
+        "macros": {
+          "p": "3g",
+          "c": "20g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Avocado,food/all"
+      },
+      {
+        "name": "Mango",
+        "price": "12",
+        "cal": "160",
+        "rating": "4.8",
+        "macros": {
+          "p": "2g",
+          "c": "35g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Mango,food/all"
+      },
+      {
+        "name": "Banana",
+        "price": "10",
+        "cal": "150",
+        "rating": "4.6",
+        "macros": {
+          "p": "2g",
+          "c": "32g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Banana,food/all"
+      },
+      {
+        "name": "Strawberry",
+        "price": "12",
+        "cal": "130",
+        "rating": "4.7",
+        "macros": {
+          "p": "1g",
+          "c": "28g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Strawberry,food/all"
+      },
+      {
+        "name": "Pappaya",
+        "price": "12",
+        "cal": "120",
+        "rating": "4.5",
+        "macros": {
+          "p": "1g",
+          "c": "25g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Pappaya,food/all"
+      },
+      {
+        "name": "Apple",
+        "price": "10",
+        "cal": "140",
+        "rating": "4.6",
+        "macros": {
+          "p": "1g",
+          "c": "30g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Apple,food/all"
+      },
+      {
+        "name": "Date",
+        "price": "12",
+        "cal": "170",
+        "rating": "4.8",
+        "macros": {
+          "p": "2g",
+          "c": "38g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Date,food/all"
+      },
+      {
+        "name": "Mixed dry fruit",
+        "price": "12",
+        "cal": "220",
+        "rating": "4.9",
+        "macros": {
+          "p": "5g",
+          "c": "40g",
+          "f": "6g"
+        },
+        "image": "https://loremflickr.com/600/800/Mixed,dry,fruit,food/all"
+      },
+      {
+        "name": "ICECREAM MILK SHAKES",
+        "price": "10",
+        "cal": "400",
+        "rating": "4.7",
+        "macros": {
+          "p": "6g",
+          "c": "55g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/ICECREAM,MILK,SHAKES,food/all"
+      },
+      {
+        "name": "SPECIAL MILK SHAKES",
+        "price": "12",
+        "cal": "600",
+        "rating": "4.9",
+        "macros": {
+          "p": "8g",
+          "c": "80g",
+          "f": "25g"
+        },
+        "image": "https://loremflickr.com/600/800/SPECIAL,MILK,SHAKES,food/all"
+      }
+    ]
+  },
+  {
+    "category": "RICE AND NOODLES",
+    "color": "#FF9800",
+    "items": [
+      {
+        "name": "Jeera rice",
+        "price": "12",
+        "cal": "320",
+        "rating": "4.6",
+        "macros": {
+          "p": "5g",
+          "c": "65g",
+          "f": "4g"
+        },
+        "image": "https://loremflickr.com/600/800/Jeera,rice,food/all"
+      },
+      {
+        "name": "Saffron rice",
+        "price": "15",
+        "cal": "340",
+        "rating": "4.8",
+        "macros": {
+          "p": "5g",
+          "c": "68g",
+          "f": "4g"
+        },
+        "image": "https://loremflickr.com/600/800/Saffron,rice,food/all"
+      },
+      {
+        "name": "Ghee rice",
+        "price": "8",
+        "cal": "380",
+        "rating": "4.7",
+        "macros": {
+          "p": "4g",
+          "c": "65g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Ghee,rice,food/all"
+      },
+      {
+        "name": "White rice",
+        "price": "6",
+        "cal": "260",
+        "rating": "4.5",
+        "macros": {
+          "p": "4g",
+          "c": "58g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/White,rice,food/all"
+      },
+      {
+        "name": "Fried rice (Veg/Chicken/Mix)",
+        "price": "16",
+        "cal": "400",
+        "rating": "4.7",
+        "macros": {
+          "p": "12g",
+          "c": "65g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Fried,rice,(Veg/Chicken/Mix),food/all"
+      },
+      {
+        "name": "Schezwan fried rice (Veg/Chicken/Mix)",
+        "price": "16",
+        "cal": "430",
+        "rating": "4.8",
+        "macros": {
+          "p": "14g",
+          "c": "68g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Schezwan,fried,rice,(Veg/Chicken/Mix),food/all"
+      },
+      {
+        "name": "Noodles (Veg/Chicken/Mix)",
+        "price": "16",
+        "cal": "370",
+        "rating": "4.6",
+        "macros": {
+          "p": "10g",
+          "c": "60g",
+          "f": "8g"
+        },
+        "image": "https://loremflickr.com/600/800/Noodles,(Veg/Chicken/Mix),food/all"
+      },
+      {
+        "name": "Schezwan noodles (Veg/Chicken/Mix)",
+        "price": "18",
+        "cal": "410",
+        "rating": "4.7",
+        "macros": {
+          "p": "12g",
+          "c": "65g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Schezwan,noodles,(Veg/Chicken/Mix),food/all"
+      }
+    ]
+  },
+  {
+    "category": "BREAD",
+    "color": "#795548",
+    "items": [
+      {
+        "name": "Chapati",
+        "price": "1",
+        "cal": "90",
+        "rating": "4.5",
+        "macros": {
+          "p": "3g",
+          "c": "18g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Chapati,food/all"
+      },
+      {
+        "name": "Porotta",
+        "price": "1",
+        "cal": "250",
+        "rating": "4.9",
+        "macros": {
+          "p": "6g",
+          "c": "35g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Porotta,food/all"
+      },
+      {
+        "name": "Appam",
+        "price": "1.5",
+        "cal": "110",
+        "rating": "4.7",
+        "macros": {
+          "p": "2g",
+          "c": "22g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Appam,food/all"
+      },
+      {
+        "name": "Muttyappam",
+        "price": "1.5",
+        "cal": "150",
+        "rating": "4.6",
+        "macros": {
+          "p": "3g",
+          "c": "30g",
+          "f": "2g"
+        },
+        "image": "https://loremflickr.com/600/800/Muttyappam,food/all"
+      },
+      {
+        "name": "Neypathal",
+        "price": "1.5",
+        "cal": "180",
+        "rating": "4.8",
+        "macros": {
+          "p": "4g",
+          "c": "35g",
+          "f": "3g"
+        },
+        "image": "https://loremflickr.com/600/800/Neypathal,food/all"
+      },
+      {
+        "name": "Wheat Porotta",
+        "price": "1.5",
+        "cal": "200",
+        "rating": "4.6",
+        "macros": {
+          "p": "6g",
+          "c": "30g",
+          "f": "6g"
+        },
+        "image": "https://loremflickr.com/600/800/Wheat,Porotta,food/all"
+      },
+      {
+        "name": "Pathiri",
+        "price": "1",
+        "cal": "47",
+        "rating": "4.7",
+        "macros": {
+          "p": "1g",
+          "c": "10g",
+          "f": "0g"
+        },
+        "image": "https://loremflickr.com/600/800/Pathiri,food/all"
+      },
+      {
+        "name": "Neer Dosa",
+        "price": "1",
+        "cal": "90",
+        "rating": "4.5",
+        "macros": {
+          "p": "3g",
+          "c": "18g",
+          "f": "1g"
+        },
+        "image": "https://loremflickr.com/600/800/Neer,Dosa,food/all"
+      }
+    ]
+  },
+  {
+    "category": "SEA FOOD DISHES",
+    "color": "#00BCD4",
+    "items": [
+      {
+        "name": "Fish roast",
+        "price": "20",
+        "cal": "320",
+        "rating": "4.8",
+        "macros": {
+          "p": "30g",
+          "c": "5g",
+          "f": "15g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,roast,food/all"
+      },
+      {
+        "name": "Fish masala",
+        "price": "20",
+        "cal": "340",
+        "rating": "4.7",
+        "macros": {
+          "p": "28g",
+          "c": "8g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,masala,food/all"
+      },
+      {
+        "name": "Fish curry",
+        "price": "20",
+        "cal": "270",
+        "rating": "4.9",
+        "macros": {
+          "p": "25g",
+          "c": "10g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,curry,food/all"
+      },
+      {
+        "name": "Fish molly",
+        "price": "20",
+        "cal": "290",
+        "rating": "4.8",
+        "macros": {
+          "p": "24g",
+          "c": "12g",
+          "f": "14g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,molly,food/all"
+      },
+      {
+        "name": "Fish Tawa fry",
+        "price": "20",
+        "cal": "310",
+        "rating": "4.9",
+        "macros": {
+          "p": "32g",
+          "c": "2g",
+          "f": "16g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,Tawa,fry,food/all"
+      },
+      {
+        "name": "Fish Pollichathu",
+        "price": "22",
+        "cal": "380",
+        "rating": "4.9",
+        "macros": {
+          "p": "35g",
+          "c": "8g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,Pollichathu,food/all"
+      },
+      {
+        "name": "Fish Mango curry",
+        "price": "25",
+        "cal": "260",
+        "rating": "4.8",
+        "macros": {
+          "p": "28g",
+          "c": "15g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,Mango,curry,food/all"
+      },
+      {
+        "name": "Prawn roast",
+        "price": "25",
+        "cal": "370",
+        "rating": "4.7",
+        "macros": {
+          "p": "30g",
+          "c": "8g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Prawn,roast,food/all"
+      },
+      {
+        "name": "Elaneer paal konju",
+        "price": "25",
+        "cal": "280",
+        "rating": "4.9",
+        "macros": {
+          "p": "25g",
+          "c": "12g",
+          "f": "15g"
+        },
+        "image": "https://loremflickr.com/600/800/Elaneer,paal,konju,food/all"
+      },
+      {
+        "name": "Fish mulakittathu",
+        "price": "10",
+        "cal": "150",
+        "rating": "4.6",
+        "macros": {
+          "p": "20g",
+          "c": "5g",
+          "f": "4g"
+        },
+        "image": "https://loremflickr.com/600/800/Fish,mulakittathu,food/all"
+      }
+    ]
+  },
+  {
+    "category": "VEG DISHES",
+    "color": "#4CAF50",
+    "items": [
+      {
+        "name": "Paneer butter masala",
+        "price": "18",
+        "cal": "380",
+        "rating": "4.8",
+        "macros": {
+          "p": "18g",
+          "c": "20g",
+          "f": "25g"
+        },
+        "image": "https://loremflickr.com/600/800/Paneer,butter,masala,food/all"
+      },
+      {
+        "name": "Chilly paneer",
+        "price": "18",
+        "cal": "340",
+        "rating": "4.7",
+        "macros": {
+          "p": "16g",
+          "c": "22g",
+          "f": "20g"
+        },
+        "image": "https://loremflickr.com/600/800/Chilly,paneer,food/all"
+      },
+      {
+        "name": "Mix veg",
+        "price": "8",
+        "cal": "220",
+        "rating": "4.5",
+        "macros": {
+          "p": "8g",
+          "c": "25g",
+          "f": "10g"
+        },
+        "image": "https://loremflickr.com/600/800/Mix,veg,food/all"
+      },
+      {
+        "name": "Chilly gopi",
+        "price": "16",
+        "cal": "250",
+        "rating": "4.6",
+        "macros": {
+          "p": "5g",
+          "c": "30g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Chilly,gopi,food/all"
+      },
+      {
+        "name": "Gopi manchurian",
+        "price": "16",
+        "cal": "260",
+        "rating": "4.8",
+        "macros": {
+          "p": "6g",
+          "c": "32g",
+          "f": "12g"
+        },
+        "image": "https://loremflickr.com/600/800/Gopi,manchurian,food/all"
+      },
+      {
+        "name": "Mushroom masala",
+        "price": "14",
+        "cal": "290",
+        "rating": "4.7",
+        "macros": {
+          "p": "10g",
+          "c": "20g",
+          "f": "18g"
+        },
+        "image": "https://loremflickr.com/600/800/Mushroom,masala,food/all"
+      },
+      {
+        "name": "Dal fry",
+        "price": "8",
+        "cal": "180",
+        "rating": "4.6",
+        "macros": {
+          "p": "12g",
+          "c": "28g",
+          "f": "4g"
+        },
+        "image": "https://loremflickr.com/600/800/Dal,fry,food/all"
+      },
+      {
+        "name": "Chana Masala",
+        "price": "8",
+        "cal": "130",
+        "rating": "4.5",
+        "macros": {
+          "p": "10g",
+          "c": "22g",
+          "f": "3g"
+        },
+        "image": "https://loremflickr.com/600/800/Chana,Masala,food/all"
+      }
+    ]
+  }
+]
