@@ -167,7 +167,7 @@ onMounted(() => {
               </svg>
             </div>
             <div class="tl-content">
-              <h4>The 50-Layer Porotta</h4>
+              <h4>The Flaky Porotta</h4>
               <p>Hand-patted and stretched to create microscopic, buttery layers that peel apart effortlessly.</p>
             </div>
           </div>
